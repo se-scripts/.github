@@ -4,7 +4,7 @@
 
 # 列表
 
-- inventory-graphic: 库存图形化展示
+- [inventory-graphic](https://github.com/se-scripts/inventory-graphic): 库存图形化展示
 - produce-graphic: 生产设备图形化展示
 - produce-inventory-manager: 生产设备库存管理
 
