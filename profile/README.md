@@ -6,7 +6,7 @@
 
 - [inventory-graphic](https://github.com/se-scripts/inventory-graphic): 库存图形化展示
 - [produce-graphic](https://github.com/se-scripts/produce-graphic): 生产设备图形化展示
-- produce-inventory-manager: 生产设备库存管理
+- [produce-inventory-manager](https://github.com/se-scripts/produce-inventory-manager): 生产设备库存管理
 
 
 # 来源
